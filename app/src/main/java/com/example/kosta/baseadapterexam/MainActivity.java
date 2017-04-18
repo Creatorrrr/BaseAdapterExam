@@ -12,7 +12,7 @@ import java.util.List;
 public class MainActivity extends AppCompatActivity {
 
     private List<Person> personList;
-    private PersonAdapter adapter;dddd
+    private PersonAdapter adapter;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
